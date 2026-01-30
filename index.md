@@ -7,7 +7,7 @@ Welcome to my ICS4U portfolio. I’ll use this site to post my work and reflecti
 - 📝 Blog/Reflection: [Reflection #1](./posts/first_reflection.md)
 
 ## About me
-A short intro (interests, goals, tools I’m learning).
+My name is Karthiga and I am in Grade 12. I enjoy computer science but I am interested in Biology doing Life Sciences in university. 
 
 ---
 *Update this page by editing `index.md` in your repository.*
